@@ -54,7 +54,7 @@ En esta opcion agregamos la vps en donde estan las instancias, esto permitira qu
 
 ![image](https://user-images.githubusercontent.com/36380066/133526378-950438eb-e284-4357-9987-7e2579901108.png)
 
-Por ultimo solo queda montar nuestros volumenes en nuestras instancias
+Por último solo queda montar nuestros volumenes en nuestras instancias
 
 A traves de estos dos comandos y listo tendrías los volumenes montados en nuestras instancias.
 
